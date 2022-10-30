@@ -1,0 +1,5 @@
+- 该项目是前台项目
+- 使用方法
+  - 首先git clone https://github.com/Cl-zzx/sph_project.git将项目下载到本地
+  - 其次进入到app文件夹下，使用npm install命令安装项目所使用的依赖包
+  - 最后在终端通过npm run dev启动项目即可
